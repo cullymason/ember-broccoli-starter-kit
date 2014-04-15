@@ -11,7 +11,7 @@ In the end I would like it to:
 
 ## Current Issues
 
-- [#1](When I type `broccoli serve` I get the following error)
+- [When I type `broccoli serve` I get the following error](#1)
 
     ```bash
     Built with error:
