@@ -11,7 +11,7 @@ In the end I would like it to:
 
 ## Current Issues
 
-- [When I type `broccoli serve` I get the following error](#1)
+- [When I type `broccoli serve` I get the following error:](https://github.com/cullymason/ember-broccoli-starter-kit/issues/1)
 
     ```bash
     Built with error:
@@ -27,7 +27,7 @@ In the end I would like it to:
     at Function.Module.runMain (module.js:499:11)
     at startup (node.js:119:16)
     ```
-## Todo's
+## [Todo's](https://github.com/cullymason/ember-broccoli-starter-kit/issues/2)
 ...so far
 - add bower and update dependencies so that they install in the right directory
 - add scaffolding for a basic ember app
